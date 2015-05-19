@@ -1,1 +1,7 @@
 testsetset
+
+
+<?php 
+	phpinfo();
+
+?>
